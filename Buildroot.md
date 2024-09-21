@@ -1,8 +1,8 @@
 # Buildroot guide
 
-First we start by cloning Buildroot repo from github.<br>
+First we start by cloning Buildroot repo from github.<br><br>
 ![](buildroot_evidence/cloning_repo_1.png)<br><br>
-Inside this directory we can see raspeberry configuration.<br>
+Inside this directory we can see raspeberry configuration.<br><br>
 ![](buildroot_evidence/checking_for_boards_2.png)<br><br>
 So we compile based on that board. 
 ![](buildroot_evidence/selecting_raspberry_3.png)<br><br>  
