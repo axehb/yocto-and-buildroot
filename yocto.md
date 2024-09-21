@@ -32,6 +32,6 @@ umount dev/sdb2
 Only after this we can then apply bmaptool command with the copy flag with the image created and sd card directory as arguments<br><br>
 ![](yocto_evidence/flashing_yocto_image_into_sd_card_8.png)<br><br><br>
 Then we can insert the sd card into our Raspberry pi and see Yocto project reference as the main displayed text  
-We can also use some commands about disk usage, having logged inas root users<br><br>
+We can also use some commands about disk usage, having logged in as root users<br><br>
 ![](yocto_evidence/commands_applied_9.jpg)<br><br><br>
 ![](yocto_evidence/commands_applied_showing_raspberry_10.jpg)<br><br><br>
