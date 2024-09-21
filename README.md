@@ -1,4 +1,4 @@
 # yocto-and-buildroot
 Small guide on how to set up build root and yocto using raspberrypi4
 
-![](github.com/axehb/yocto-and-buildroot/blob/main/yocto evidence/cloning repos)
+![](yocto evidence/20240920_160737.jpg)
