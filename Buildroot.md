@@ -14,7 +14,7 @@ We exit and we are asked automatically to save the configuration.<br>
 ![](buildroot_evidence/save_configuration_and_make_the_file_6.png)<br><br>  
 After that we get our final image compiled with the name of sdcard_image.  
 And in this case we flashed it using the Raspberry Pi Imager.  
-We can see Buildroot welcoming us.<br>
+We can see Buildroot welcoming us.<br><br>
 ![](buildroot_evidence/Buildroot_login_7.jpg)<br><br>  
 Login as root and applying some disk usage commands.<br>
 ![](buildroot_evidence/applying_commands_8.jpg)
