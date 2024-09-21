@@ -1,7 +1,7 @@
 # Yocto Project
 
-First we start by cloning the yocto project but avoiding the development branch
-And sticking to any other like the kirkstone one
+First we start by cloning the yocto project but avoiding the development branch  
+and sticking to any other like the kirkstone one.  
 Yocto works through layers so we also add the raspberry pi layer called "meta raspberry"<br><br>
 ![](yocto_evidence/cloning_repos_1.png)<br><br><br>
 We access to this directory to check what name will be used to include inside the configuration<br><br>
@@ -29,7 +29,7 @@ and then use `umount` command to unmount both of them like this:
 umount dev/sdb1
 umount dev/sdb2
 ```
-Only after this we can then apply the bmaptool with copy flagand the image created and sd card directory as arguments<br><br>
+Only after this we can then apply bmaptool command with the copy flag with the image created and sd card directory as arguments<br><br>
 ![](yocto_evidence/flashing_yocto_image_into_sd_card_8.png)<br><br><br>
 Then we can insert the sd card into our Raspberry pi and see Yocto project reference as the main displayed text  
 We can also use some commands about disk usage, having logged inas root users<br><br>
