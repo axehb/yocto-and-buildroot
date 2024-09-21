@@ -1,6 +1,6 @@
 # Buildroot guide
 
-First we start by cloning Buildroot repo from github  
+First we start by cloning Buildroot repo from github    
 ![](buildroot_evidence/cloning_repo_1.png)  
 Inside this directory we can see raspeberry configuration  
 ![](buildroot_evidence/checking_for_boards_2.png)  
