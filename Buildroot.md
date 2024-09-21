@@ -4,7 +4,7 @@ First we start by cloning Buildroot repo from github.<br><br>
 ![](buildroot_evidence/cloning_repo_1.png)<br><br>
 Inside this directory we can see raspeberry configuration.<br><br>
 ![](buildroot_evidence/checking_for_boards_2.png)<br><br>
-So we compile based on that board.<br><br> 
+So we compile based on that board.<br><br>
 ![](buildroot_evidence/selecting_raspberry_3.png)<br><br>  
 Then we can exectute the UI for extra tools that we may need.<br><br>
 ![](buildroot_evidence/Executing_the_UI_4.png)<br><br>  
