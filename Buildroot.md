@@ -12,9 +12,9 @@ Here let's say for example that we need open SSH and we add it
 ![](buildroot_evidence/Selecting_openssh_as_a_module_example_5.png)
 We exit and we are asked automatically to save the configuration
 ![](buildroot_evidence/save_configuration_and_make_the_file_6.png)
-After that we get our final image compiled with the name of sdcard_image
-And in this case we flashed it using the Raspberry Pi Imager.
-We can see Buildroot welcoming us
+After that we get our final image compiled with the name of sdcard_image  
+And in this case we flashed it using the Raspberry Pi Imager.  
+We can see Buildroot welcoming us  
 ![](buildroot_evidence/Buildroot_login_7.jpg)
 Login as root and applying some disk usage commands
 ![](buildroot_evidence/applying_commands_8.jpg)
